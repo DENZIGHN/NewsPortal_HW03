@@ -1,5 +1,5 @@
 
-# (venv) PS D:\Учеба\D2.NEWSPAPER\NewsPapper> 
+# (venv) PS D:\SkillFactory\Django\1.6\NewsPortal_HW03>
 # py manage.py makemigrations
 # py manage.py migrate
 # py manage.py shell 
